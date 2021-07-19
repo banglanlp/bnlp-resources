@@ -36,7 +36,7 @@ In our work [[A Review of Bangla Natural Language Processing Tasks and the Utili
   - We also report comparative results for individual vs. consolidated datasets, when multiple data source is available.
   - We analyze the trade-off between performance and computational complexity between the transformer-based and classical approaches like SVM.
   - We provide a concrete future direction for the community answering to questions like: (1) what resources are available? (2) the challenges? and (3) what can be done?
-  - We provide data splits for reproducibility and future research. Note that we could only provide and share data splits, which were publicly accessible. 
+  - We provide data splits for reproducibility and future research. Note that we could only provide and share data splits, which were publicly accessible.
 
 ## Licensing
 
@@ -275,6 +275,14 @@ Ayesha Tasnim},
   journal={arXiv preprint arXiv:2011.04446},
   year={2020}
 }
+@inproceedings{khatun2019authorship,
+ author = {Khatun, Aisha and Rahman, Anisur and Islam, Md Saiful and others},
+ booktitle = {2019 22nd International Conference on Computer and Information Technology (ICCIT)},
+ organization = {IEEE},
+ pages = {1--5},
+ title = {Authorship Attribution in Bangla literature using Character-level {CNN}},
+ year = {2019}
+}
 ```
 
 ### [News Categorization](news_categorization)
@@ -286,5 +294,10 @@ Ayesha Tasnim},
   journal={arXiv preprint arXiv:2011.04446},
   year={2020}
 }
-
+@article{kunchukuttan2020ai4bharat,
+ author = {Anoop Kunchukuttan and Divyanshu Kakwani and Satish Golla and Gokul N.C. and Avik Bhattacharyya and Mitesh M. Khapra and Pratyush Kumar},
+ journal = {arXiv preprint arXiv:2005.00085},
+ title = {AI4Bharat-IndicNLP Corpus: Monolingual Corpora and Word Embeddings for Indic Languages},
+ year = {2020}
+}
 ```
