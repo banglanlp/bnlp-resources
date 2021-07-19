@@ -1,9 +1,6 @@
 # Bangla Sentiment Classification Datasets
 
-To obtain the compiled version of sentiment analysis dataset collected from several sources for benchmarking purpose, please visit the following repository:
-```link
-https://github.com/banglanlp/bangla-sentiment-classification
-```
+To obtain the compiled version of sentiment analysis dataset collected from several sources for benchmarking purpose. For this work, we curated the dataset from the work of [https://github.com/banglanlp/bangla-sentiment-classification](https://github.com/banglanlp/bangla-sentiment-classification).
 
 ## Dataset
 
@@ -38,7 +35,7 @@ Please cite the following papers if you are using the data:
 5. N. I. Tripto and M. E. Ali, Detecting multilabel sentiment and emotions from Bangla youtube comments, in Proc. of ICBSLP. IEEE, 2018, pp. 1–6.
 6. M. Rezaul Karim, B. Raja Chakravarthi, M. Arcan, J. P. McCrae, and M. Cochez, Classification benchmarks for under­-resourced Bengali language based on multichannel convolutional­ LSTM network, arXiv, pp. arXiv–2004, 2020.
 
-```bib
+```
 @article{alam2021review,
   title={A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models},
   author={Alam, Firoj and Hasan, Md Arid and Alam, Tanvir and Khan, Akib and Tajrin, Janntatul and Khan, Naira and Chowdhury, Shammur Absar},
