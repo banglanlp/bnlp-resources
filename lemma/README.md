@@ -12,7 +12,8 @@ Each of the following files contains word and its lemma form.
 
 
 ## Licensing
-Our work is licensed under https://creativecommons.org/licenses/by-nc/4.0/. However, for each dataset, please see the license information associated with it.
+
+The original dataset does not provide any license information. 
 
 ## Citation
 

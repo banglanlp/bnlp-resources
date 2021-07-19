@@ -11,11 +11,15 @@ https://github.com/banglanlp/bangla-sentiment-classification
 In the following directories we have data splits (train/dev/test) for different datasets.
 
 * ABSA_datasets -- This dataset has developed to per­form aspect ­based sentiment analysis task in Bangla.
+  - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * SAIL_data -- This dataset, consists of tweet posts, has developed in the Shared task on Sentiment Analysis in Indian Languages (SAIL) 2015. [2]
+  - License: [Non-profit](http://amitavadas.com/SAIL/)
 * multichannel_bsentiment -- This data was collected from several newspapers, TV news, books, blogs, and social me­dia.
+  - License: [NA](https://github.com/rezacsedu/Classification_Benchmarks_Benglai_NLP)
 * youtube_sentiment -- This dataset was devel­oped by extracting comments from various YouTube videos.
+  - License: [NA](https://www.kaggle.com/nit003/bangla-youtube-sentiment-and-emotion-datasets)
 <!-- * consolidated -- all combined dataset from the above data splits -->
-**Note:** Due to the license limitation we are not able to release CogniSenti Dataset.
+* **Note:** Due to the license limitation we are not able to release CogniSenti Dataset.
 
 
 ## Licensing

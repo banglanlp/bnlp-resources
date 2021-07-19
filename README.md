@@ -28,7 +28,7 @@ __Table of contents:__
   - [News Categorization](#news-categorization)
 
 ## Datasets:
-Below we provide a summary of the datasets. Note that for some datasets, we did not find license information, hence, it is reported as NA. **<span style="color:red">We are in contact with the authors to see if we can get more clear information about license information</span>**
+Below we provide a summary of the datasets. Note that for some datasets, we did not find license information, hence, it is reported as NA. <span style="color:red">We are in contact with the authors to see if we can get more clear information about license information</span>
 
 
 ## A brief summary of the work:
