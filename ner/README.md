@@ -8,6 +8,13 @@ Proprietary.
 ## Citation
 
 ```
+@article{alam2021review,
+  title={A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models},
+  author={Alam, Firoj and Hasan, Md Arid and Alam, Tanvir and Khan, Akib and Tajrin, Janntatul and Khan, Naira and Chowdhury, Shammur Absar},
+  journal={arXiv preprint arXiv:2107.03844},
+  year={2021}
+}
+
 @inproceedings{chowdhury2018towards,
  author = {Chowdhury, Shammur Absar and Alam, Firoj and Khan, Naira},
  booktitle = {2018 21st International Conference of Computer and Information Technology (ICCIT)},

@@ -4,13 +4,11 @@ The dataset has been curated from [https://www.isical.ac.in/~utpal/resources.php
 
 ## Dataset
 
-Each of the following files, contains word and its lemma form.
+Each of the following files contains word and its lemma form.
 
 - **train.txt**
 - **dev.txt**
 - **test.txt**
-
-
 
 
 ## Licensing
@@ -21,6 +19,13 @@ Our work is licensed under https://creativecommons.org/licenses/by-nc/4.0/. Howe
 Please cite the following papers if you are using the data:
 
 ```
+@article{alam2021review,
+  title={A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models},
+  author={Alam, Firoj and Hasan, Md Arid and Alam, Tanvir and Khan, Akib and Tajrin, Janntatul and Khan, Naira and Chowdhury, Shammur Absar},
+  journal={arXiv preprint arXiv:2107.03844},
+  year={2021}
+}
+
 @inproceedings{chakrabarty-etal-2017-context,
  address = {Vancouver, Canada},
  author = {Chakrabarty, Abhisek  and Pandit, Onkar Arun  and Garain, Utpal},

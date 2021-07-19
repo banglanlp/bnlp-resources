@@ -34,7 +34,8 @@ After extracting the zip file, the following directory we have data splits (trai
 ## Licensing
 This is a compiled version from several datasets. We are releasing it as CC BY-NC-SA 2.0 (https://creativecommons.org/licenses/by-nc-sa/2.0/). However, for the respective data source please check the licence in the corresponding papers or source location.
 
-# Please cite the following papers if you are using the data:
+## Citation
+Please cite the following papers if you are using the data:
 
 1. Alam, F., Hasan, M. A., Alam, T., Khan, A., Tajrin, J., Khan, N., & Chowdhury, S. A. (2021). A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models. arXiv preprint arXiv:2107.03844.
 2. Hasan, M. A., Alam, F., Chowdhury, S. A., & Khan, N. (2019, December). Neural machine translation for the Bangla-English language pair. In 2019 22nd International Conference on Computer and Information Technology (ICCIT) (pp. 1-6). IEEE.
@@ -111,4 +112,3 @@ This is a compiled version from several datasets. We are releasing it as CC BY-N
 }
 
 ```
-

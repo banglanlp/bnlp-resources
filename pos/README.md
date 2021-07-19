@@ -1,8 +1,9 @@
 # Parts of Speech Datasets
+There are several datasets available for Parts of Speech tagging.
 
+## Dataset
 
-## Datasets
-
+### Directory Structure:
 
 * **<span style="color:blue">LDC:</span>** The LDC corpus is publicly available through LDC. Due to the license restriction we are not able to make it available.  
   - License: LDC
@@ -12,13 +13,11 @@
   - License: NA
 
 ## Licensing
-Our work is licensed under https://creativecommons.org/licenses/by-nc/4.0/. However, for each dataset, please see the license information associated with it.
+Our work is licensed under https://creativecommons.org/licenses/by-nc/4.0/. For each specific dataset, please see the license information associated with it.
 
 ## Citation
 
 Please cite the following papers if you are using the data:
-
-<!-- - [1] Firoj Alam, Shammur Absar Chowdhury and Sheak Rashed Haider Noori, Bidirectional LSTMs - CRFs Networks for Bangla POS Tagging, ICCIT 2016. -->
 
 ```
 @article{alam2021review,
@@ -40,8 +39,6 @@ Please cite the following papers if you are using the data:
 @techreport{iitgpgpostagging,
  Noaddress = {India},
  author = {A Kumaran},
- date-added = {2021-06-02 19:05:22 +0000},
- date-modified = {2021-06-02 19:11:01 +0000},
  institution = {Microsoft Research},
  title = {A Part of Speech Tagger for Indian Languages (POS tagger) },
  year = {2007}
