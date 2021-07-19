@@ -1,7 +1,7 @@
 # Resources for Bangla Natural Language Processing (BanglaNLP)
 
 This repository contains available datasets for nine notable Bangla Natural Language Processing tasks: (i) POS tagging, (ii) lemmatization, (iii) NER, (iv) punctuation restoration, (v) MT, (vi) sentiment classification, (vii) emotion classification, (viii) authorship attribution, and (ix) news categorization.
-For each task, we curated labeled datasets from different tasks, split them for training, development and evaluation. The purpose was to create benchmarks and facilitate reproducing the results. The compilation of the datasets is the results of the work of the paper [1] ([A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models](https://arxiv.org/pdf/2107.03844.pdf)). Please see below a brief summary of the work and major contributions.
+For each task, we curated labeled datasets from different tasks, split them for training, development and evaluation. The purpose was to create benchmarks and facilitate reproducing the results. The compilation of the datasets is the results of the work of the paper [[A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models](https://arxiv.org/pdf/2107.03844.pdf)]. Please see below a brief summary of the work and major contributions.
 
 __Table of contents:__
 - [Datasets](dataset)
@@ -26,7 +26,7 @@ Below we provide a summary of the datasets. Note that for some datasets, we did 
 ## A brief summary of the work:
 
 #### Brief summary
-In our work [1], we provide a review of Bangla NLP tasks, resources, and tools available to the research community; we benchmark datasets collected from various platforms for nine NLP tasks using current state-of-the-art algorithms (i.e., transformer-based models). We provide comparative results for the studied NLP tasks by comparing monolingual vs. multilingual models of varying sizes. We report our results using both individual and consolidated datasets and provide data splits for future research. We reviewed a total of 108 papers and conducted 175 sets of experiments. Our results show promising performance using transformer-based models while highlighting the trade-off with computational costs. We hope that such a comprehensive survey will motivate the community to build on and further advance the research on Bangla NLP.
+In our work [[A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models](https://arxiv.org/pdf/2107.03844.pdf)], we provide a review of Bangla NLP tasks, resources, and tools available to the research community; we benchmark datasets collected from various platforms for nine NLP tasks using current state-of-the-art algorithms (i.e., transformer-based models). We provide comparative results for the studied NLP tasks by comparing monolingual vs. multilingual models of varying sizes. We report our results using both individual and consolidated datasets and provide data splits for future research. We reviewed a total of 108 papers and conducted 175 sets of experiments. Our results show promising performance using transformer-based models while highlighting the trade-off with computational costs. We hope that such a comprehensive survey will motivate the community to build on and further advance the research on Bangla NLP.
 
 #### Major contributions:
 
@@ -36,7 +36,7 @@ In our work [1], we provide a review of Bangla NLP tasks, resources, and tools a
   - We also report comparative results for individual vs. consolidated datasets, when multiple data source is available.
   - We analyze the trade-off between performance and computational complexity between the transformer-based and classical approaches like SVM.
   - We provide a concrete future direction for the community answering to questions like: (1) what resources are available? (2) the challenges? and (3) what can be done?
-  - We provide data splits for reproducibility and future research. Note that we could only provide and share data splits, which were publicly accessible. Any private data can be possibly accessed by contacting respective authors.
+  - We provide data splits for reproducibility and future research. Note that we could only provide and share data splits, which were publicly accessible. 
 
 ## Licensing
 
@@ -56,7 +56,7 @@ Please cite the following papers if you are using the data splits. If you use an
 }
 ```
 
-### Parts of Speech
+### [Parts of Speech](lemma)
 
 ```
 @inproceedings{alam2016bidirectional,
@@ -69,7 +69,7 @@ Please cite the following papers if you are using the data splits. If you use an
 }
 ```
 
-### Lemmatization
+### [Lemmatization](lemma)
 
 ```
 @inproceedings{chakrabarty-etal-2017-context,
@@ -85,7 +85,7 @@ Please cite the following papers if you are using the data splits. If you use an
 }
 ```
 
-### Named Entity Recognition
+### [Named Entity Recognition](ner)
 
 ```
 @inproceedings{chowdhury2018towards,
@@ -98,7 +98,7 @@ Please cite the following papers if you are using the data splits. If you use an
 }
 ```
 
-### Punctuation Restoration
+### [Punctuation Restoration](punctuation_restoration)
 
 ```
 @inproceedings{alam-etal-2020-punctuation,
@@ -133,7 +133,7 @@ Ayesha Tasnim},
 }
 ```
 
-### Machine Translation
+### [Machine Translation](mt)
 
 ```
 @article{alam2021review,
@@ -247,7 +247,7 @@ Ayesha Tasnim},
 }
 ```
 
-### Emotion Classification
+### [Emotion Classification](emotion)
 
 ```
 @article{alam2020bangla,
@@ -266,7 +266,7 @@ Ayesha Tasnim},
 }
 ```
 
-### Authorship Attribution
+### [Authorship Attribution](authorship_attribution)
 
 ```
 @article{alam2020bangla,
@@ -277,7 +277,7 @@ Ayesha Tasnim},
 }
 ```
 
-### News Categorization
+### [News Categorization](news_categorization)
 
 ```
 @article{alam2020bangla,
