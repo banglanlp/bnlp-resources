@@ -1,6 +1,6 @@
 # Punctuation Restoration Dataset
 
-We used the dataset reported in in the work of [Punctuation Restoration using Transformer Models for High-and Low-Resource Languages](http://noisy-text.github.io/2020/pdf/2020.d200-1.18.pdf). Please also check the git repo for the experimental scripts: [https://github.com/xashru/punctuation-restoration](https://github.com/xashru/punctuation-restoration).
+We used the dataset reported in in the work of [Punctuation Restoration using Transformer Models for High-and Low-Resource Languages](http://noisy-text.github.io/2020/pdf/2020.d200-1.18.pdf). Please also check the git repo for the experimental scripts: [https://github.com/xashru/punctuation-restoration](https://github.com/xashru/punctuation-restoration). The dataset also contains newspaper articles, which are curated from [https://data.mendeley.com/datasets/xp92jxr8wn/2](https://data.mendeley.com/datasets/xp92jxr8wn/2).
 
 ## Dataset
 The dataset consists of train, development, and test splits prepared from a publicly available corpus of Bangla newspaper articles. Additionally, the authors prepared two test datasets from manual and ASR transcribed texts. These were collected from 65 minutes of speech excerpts extracted from four Bangla short stories. There are four labels including three punctuation marks: (i) Comma: includes commas, colons and dashes, (ii) Period: includes full stops, exclamation marks and semicolons, (iii) Question: only question mark, and (iv) O: for any other token.
@@ -18,7 +18,9 @@ The dataset consists of train, development, and test splits prepared from a publ
 
 ## Licensing
 
-The dataset is released under *MIT License*.
+The newspapers articles is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The manual, automatic transcription and data splits are released under *MIT License*.
+
 
 
 ## Citation

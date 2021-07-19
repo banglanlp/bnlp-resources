@@ -17,7 +17,15 @@ __Table of contents:__
 - [A brief summary of the work](#a-brief-summary-of-the-work)
 - [Licensing](#licensing)
 - [Citation](#citation)
-
+  - [Parts of Speech](#parts-of-Speech)
+  - [Lemmatization](#lemmatization)  
+  - [Named Entity Recognition](#named-entity-recognition)
+  - [Punctuation Restoration](#punctuation-restoration)
+  - [Machine Translation](#machine-translation)
+  - [Sentiment Classification](#sentiment-classification)
+  - [Emotion Classification](#emotion-classification)
+  - [Authorship Attribution](#authorship-attribution)
+  - [News Categorization](#news-categorization)
 
 ## Datasets:
 Below we provide a summary of the datasets. Note that for some datasets, we did not find license information, hence, it is reported as NA. **<span style="color:red">We are in contact with the authors to see if we can get more clear information about license information</span>**
@@ -56,7 +64,7 @@ Please cite the following papers if you are using the data splits. If you use an
 }
 ```
 
-### [Parts of Speech](lemma)
+### [Parts of Speech](pos)
 
 ```
 @inproceedings{alam2016bidirectional,
