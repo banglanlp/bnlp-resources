@@ -41,11 +41,14 @@ In our work [[A Review of Bangla Natural Language Processing Tasks and the Utili
   - We provide a detailed survey on the most notable NLP tasks by reviewing 108 papers.
   - We benchmark different (nine) tasks with experimental results using nine different transformer models,(for MT we use one pre-trained transformer model) which resulted in 175 sets of experiments.
   - We provide comparative results for different transformer models comparing 
-   - (1) models' size (large vs. small) and 
-   - (2) style (mono vs. multilingual models).
+   	- (1) models' size (large vs. small) and 
+	- (2) style (mono vs. multilingual models).
   - We also report comparative results for individual vs. consolidated datasets, when multiple data source is available.
   - We analyze the trade-off between performance and computational complexity between the transformer-based and classical approaches like SVM.
-  - We provide a concrete future direction for the community answering to questions like: (1) what resources are available? (2) the challenges? and (3) what can be done?
+  - We provide a concrete future direction for the community answering to questions like: 
+  	- (1) what resources are available? 
+  	- (2) the challenges? and 
+  	- (3) what can be done?
   - We provide data splits for reproducibility and future research. Note that we could only provide and share data splits, which were publicly accessible.
 
 ## Licensing
