@@ -13,6 +13,7 @@ In the following directories we have data splits (train/dev/test) for different 
   - License: [Non-profit](http://amitavadas.com/SAIL/)
 * multichannel_bsentiment -- This data was collected from several newspapers, TV news, books, blogs, and social me­dia.
   - License: [NA](https://github.com/rezacsedu/Classification_Benchmarks_Benglai_NLP)
+  (N.B.: We have the permission to share this dataset.)
 * youtube_sentiment -- This dataset was devel­oped by extracting comments from various YouTube videos.
   - License: [NA](https://www.kaggle.com/nit003/bangla-youtube-sentiment-and-emotion-datasets)
 <!-- * consolidated -- all combined dataset from the above data splits -->
