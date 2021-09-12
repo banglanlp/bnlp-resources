@@ -4,7 +4,7 @@ This repository contains available datasets for nine notable Bangla Natural Lang
 For each task, we curated labeled datasets from different tasks, split them for training, development and evaluation. The purpose was to create benchmarks and facilitate reproducing the results. The compilation of the datasets is the results of the work of the paper [[A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models](https://arxiv.org/pdf/2107.03844.pdf)]. Please see below a brief summary of the work and major contributions.
 
 __Table of contents:__
-- [Datasets](dataset)
+- [Datasets](datasets)
   - [Parts of Speech](pos)  
   - [Lemmatization](lemma)
   - [Named Entity Recognition](ner)
